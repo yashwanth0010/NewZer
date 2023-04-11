@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Talia Kayali, Chris Liakos, Teele Rebane",
+            "title": "Scenes of devastation after plane carrying military munitions crashes in Greece, killing eight people - CNN",
+            "description": "A cargo plane crashed in northern Greece on Saturday, killing all eight people on board and raising concerns about the Serbian military equipment it was carrying.",
+            "url": "https://www.cnn.com/2022/07/17/europe/greece-cargo-plane-crash-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220717034235-03-greek-cargo-plane-crash-071722.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-07-17T12:23:00Z",
+            "content": "A cargo plane crashed in northern Greece on Saturday, killing all eight people on board and raising concerns about the Serbian military equipment it was carrying. \r\nThe plane was transporting equipme… [+3015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Heatwave: More evacuations as Mediterranean wildfires spread - BBC",
+            "description": "Wildfires force France to evacuate some 14,000 people, as Spain, Croatia and Greece are also hit.",
+            "url": "https://www.bbc.com/news/world-europe-62196045",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80F6/production/_125941033_mediaitem125940297.jpg",
+            "publishedAt": "2022-07-17T11:52:47Z",
+            "content": "By Laurence PeterBBC News\r\nFrance has evacuated more than 14,000 people threatened by wildfires in the south-west, as fires also spread in Spain, Croatia and Greece.\r\nAuthorities in France's Gironde,… [+5588 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jill U. Adams",
+            "title": "Perspective | More than reading glasses — new options for 'old' eyes - The Washington Post",
+            "description": "The good news is that there are a multitude of options to manage presbyopia.",
+            "url": "https://www.washingtonpost.com/health/2022/07/17/vision-treatments-presbyopia-aging/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/63WFZLQDQMI63C7LFNHEQGYVAA.jpg&w=1440",
+            "publishedAt": "2022-07-17T11:36:18Z",
+            "content": "Comment on this story\r\nThe restaurant had tablecloths, low lighting and large, leather-bound menus with a fanciful script describing the fare. But these otherwise appealing features forced me to hold… [+6155 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "OlympicTalk",
+            "title": "Fred Kerley leads U.S. medals sweep of men’s 100m at track worlds - Home of the Olympic Channel",
+            "description": "Fred Kerley is the world champion in the 100m, completing an extraordinary journey to the title of world's fastest man.",
+            "url": "https://olympics.nbcsports.com/2022/07/17/fred-kerley-100-meters-track-and-field-world-championships/",
+            "urlToImage": "https://olympics.nbcsports.com/wp-content/uploads/sites/10/2022/07/GettyImages-1241948126-e1658029229343.jpg",
+            "publishedAt": "2022-07-17T10:40:00Z",
+            "content": "Fred Kerley is the world champion in the 100m, completing an extraordinary journey to the title of worlds fastest man.\r\nKerley, the 27-year-old American who took silver at the Tokyo Olympics, won the… [+7096 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Phil Mattingly, Allie Malloy, Tamara Qiblawi, Celine Alkhaldi",
+            "title": "MBS hits back at Biden after the President confronts Saudi prince about Khashoggi - CNN",
+            "description": "Saudi Arabia's de facto ruler, Crown Prince Mohammed bin Salman, fired back at US President Joe Biden after the president confronted him about the 2018 murder of Saudi journalist Jamal Khashoggi during a meeting on Friday, according to a source familiar with …",
+            "url": "https://www.cnn.com/2022/07/16/middleeast/biden-mbs-khashoggi-abu-akleh-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220715123924-01b-biden-mbs-fist-bump.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-07-17T09:40:00Z",
+            "content": "Saudi Arabias de facto ruler, Crown Prince Mohammed bin Salman, hit back at Joe Biden after the US President confronted him about the 2018 murder of Saudi journalist Jamal Khashoggi during a meeting … [+6424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Amber Rose Not Surprised at All that Kim Kardashian Divorced Kanye West - TMZ",
+            "description": "Amber Rose opens up about her ex-boyfriend Kanye West and his split from Kim Kardashian on the 'It's Tricky' podcast with Raquel Harper.",
+            "url": "https://www.tmz.com/2022/07/17/amber-rose-kanye-west-kim-kardashian-divorce-its-tricky/",
+            "urlToImage": "https://imagez.tmz.com/image/71/16by9/2022/07/14/71e1177adcd748a6963a926728855b13_xl.jpg",
+            "publishedAt": "2022-07-17T07:50:00Z",
+            "content": "Amber Rose knows Kanye West, and she opens up about his divorce from Kim Kardashian ... short story, she's not surprised at all.\r\nAmber sat down with Raquel for the \"It's Tricky with Raquel Harper\" p… [+881 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "TuAnh Dam",
+            "title": "Lawyer's plan for Trump to overturn election included firing acting attorney general - Axios",
+            "description": "William Olson conceded that his proposed plans could be regarded as tantamount to declaring “martial law” and could be compared with Watergate.",
+            "url": "https://www.axios.com/2022/07/16/trump-william-olson-2020-election-overturn",
+            "urlToImage": "https://images.axios.com/1mvuKqGvqXaibXsL8_zTMKUfOqM=/0x58:3815x2204/1366x768/2022/07/16/1657988715743.jpg",
+            "publishedAt": "2022-07-17T07:39:33Z",
+            "content": "A lawyer with deep ties to conservative groups and conspiracy theorists pushed several extreme ideas to then-President Trump to overturn the results of the 2020 elections, according to a document obt… [+1745 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eliott C. McLaughlin, CNN",
+            "title": "How the Supreme Court recalibrated the abortion debate in just 3 words - CNN",
+            "description": "It's not just that US Supreme Court majorities upheld Mississippi's 15-week abortion ban and overturned Roe v. Wade. The opinion also skewed the crux of the conversation going forward -- with just three words.",
+            "url": "https://www.cnn.com/2022/07/17/us/abortion-religion-dobbs-roe/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220627212012-scotus-religion-super-tease.jpg",
+            "publishedAt": "2022-07-17T07:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Mike Coppinger",
+            "title": "Ryan Garcia's wish after his KO win -- 'I'm going to fight Tank Davis' - ESPN",
+            "description": "Ryan Garcia looked impressive at 140 pounds and called out Gervonta Davis after the win. But can that fight be made?",
+            "url": "https://www.espn.com/boxing/story/_/id/34255407/ryan-garcia-wish-ko-win-going-fight-tank-davis",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0717%2Fr1037228_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-07-17T05:46:25Z",
+            "content": "Even though Ryan Garcia looked better than ever with a sixth-round KO of Javier Fortuna on Saturday in Los Angeles, it feels like we're moving farther away from a super fight against Gervonta Davis.\r… [+4103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Europe heatwave: Deadly wildfires spread in Mediterranean - BBC",
+            "description": "A firefighting pilot dies in Portugal and a big fire spreads near Spain's Costa del Sol.",
+            "url": "https://www.bbc.com/news/world-europe-62189272",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A220/production/_125940514_mediaitem125940513.jpg",
+            "publishedAt": "2022-07-17T04:56:44Z",
+            "content": "By Laurence PeterBBC News\r\nThousands of firefighters are continuing to battle wildfires in Portugal, Spain and France, as a heatwave shows no sign of easing.\r\nIn northern Portugal, a pilot died when … [+5230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Russia is preparing for next stage of offensive, Ukraine says - CNBC",
+            "description": "Ukraine said Russia appears to be regrouping for an offensive towards Sloviansk, a symbolically important city held by Ukraine in the eastern region of Donetsk.",
+            "url": "https://www.cnbc.com/2022/07/17/russia-is-preparing-for-next-stage-of-offensive-ukraine-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107089851-1658031804692-gettyimages-1406536234-030a9820_fa475c07-f06f-4b36-9141-5aef027059f1.jpeg?v=1658031899&w=1920&h=1080",
+            "publishedAt": "2022-07-17T04:33:35Z",
+            "content": "Russia is preparing for the next stage of its offensive in Ukraine, a Ukrainian military official said, after Moscow said its forces would step up military operations in \"all operational areas.\"\r\nRus… [+2960 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Elon Musk Texted Twitter CEO About Lawyers Before Deal Pull-Out: Report - NDTV",
+            "description": "Elon Musk announced the termination of the Twitter purchase deal in a letter sent by his team to Twitter earlier this month.",
+            "url": "https://www.ndtv.com/world-news/elon-musk-sent-text-to-twitter-ceo-parag-agrawal-report-3165238",
+            "urlToImage": "https://c.ndtvimg.com/2022-07/bvmvvus8_elon-musk_625x300_09_July_22.jpg",
+            "publishedAt": "2022-07-17T04:19:13Z",
+            "content": "Twitter sued Musk after he decided to back out of the $44 billion takeover deal. (File)\r\nWashington: The dispute between Tesla CEO Elon Musk and Twitter is taking many twists and turns.\r\nAs per new r… [+2686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KRON4"
+            },
+            "author": "Aaron Tolentino",
+            "title": "1 dead, 2 injured after fight turns into shooting at Livermore bowling alley: police - KRON4",
+            "description": "LIVERMORE, Calif. (KRON) — One person has died and two were injured after a shooting at a bowling alley in Livermore Saturday evening, police announced on Facebook. Police say a fight broke out at Granada Bowl, which led to a shooting inside the business. One…",
+            "url": "https://www.kron4.com/news/bay-area/bowling-alley-in-livermore-closes-early-due-to-incident-police-say/",
+            "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2022/07/293095707_414288754065723_6903682186593275603_n.jpg?w=1280",
+            "publishedAt": "2022-07-17T03:25:35Z",
+            "content": "LIVERMORE, Calif. (KRON) — One person has died and two were injured after a shooting at a bowling alley in Livermore Saturday evening, police announced on Facebook. Police say a fight broke out at Gr… [+970 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Stefanie Dazio",
+            "title": "2 kids among 6 dead in Montana highway pileup, 8 others hurt - The Associated Press",
+            "description": "Two children are among the six people who died in a Montana pileup after a Friday evening dust storm caused blackout conditions on Interstate 90, a major route in both Montana and the Western U.S. Montana Highway Patrol Sgt.",
+            "url": "https://apnews.com/acd3df7a1edaec8e2fec045c41e6f9e5",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/8e00b1cc365045d39b77a5622d0f1dde/1648.jpeg",
+            "publishedAt": "2022-07-17T02:50:33Z",
+            "content": "Two children are among the six people who died in a Montana pileup after a Friday evening dust storm caused blackout conditions on Interstate 90, a major route in both Montana and the Western U.S.\r\nM… [+2990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "SpaceX Dragon Spacecraft Docks With ISS Delivering Science Benefiting Humans - SciTechDaily",
+            "description": "While the International Space Station (ISS) was traveling in orbit more than 267 miles over the South Atlantic Ocean, the SpaceX Dragon cargo spacecraft autonomously docked to the forward-facing port of the station’s Harmony module at 11:21 a.m. EDT (8:21 a.m…",
+            "url": "https://scitechdaily.com/spacex-dragon-spacecraft-docks-with-iss-delivering-science-benefiting-humans/",
+            "urlToImage": "https://scitechdaily.com/images/SpaceX-Cargo-Dragon-Resupply-Ship-With-Nose-Cone-Open-scaled.jpg",
+            "publishedAt": "2022-07-17T02:23:59Z",
+            "content": "ByNASAJuly 16, 2022\r\nThe pressurized capsule of the SpaceX Cargo Dragon resupply ship with its nose cone open is pictured as the vehicle departs the International Space Station on January 23, 2022. C… [+12595 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Erin Walsh",
+            "title": "Juan Soto Trade Rumors: Padres Want to Pair Nationals Star with Fernando Tatis Jr. - Bleacher Report",
+            "description": "Washington Nationals star Juan Soto is available for trade after rejecting a 15-year, $44",
+            "url": "https://bleacherreport.com/articles/10042314-juan-soto-trade-rumors-padres-want-to-pair-nationals-star-with-fernando-tatis-jr",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_3800,q_95/v1658022683/vk9brclguv1j6jgbvsp8.jpg",
+            "publishedAt": "2022-07-17T02:09:50Z",
+            "content": "Brett Davis/Getty Images\r\nJuan Soto is available for trade after rejecting a 15-year, $440 million offer from the Washington Nationals, according to The Athletic's Ken Rosenthal, and at least one tea… [+2194 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "Emily Ashcraft, KSL.com",
+            "title": "Stargazing: Lehi museum partners with NASA to teach about Webb telescope images - KSL.com",
+            "description": "The Hutchings Museum Institute in Lehi held an event on Saturday to celebrate the first images released from the James Webb Space Telescope.",
+            "url": "https://www.ksl.com/article/50441225/stargazing-lehi-museum-partners-with-nasa-to-teach-about-webb-telescope-images",
+            "urlToImage": "https://img.ksl.com/slc/2884/288449/28844993.jpeg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2022-07-17T01:21:18Z",
+            "content": "Estimated read time: 5-6 minutes\r\nLEHI Recent images from the James Webb Space Telescope spread around the world this week, showing new detailed photos of galaxies and stars that show snapshots from … [+5760 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Sun Yu",
+            "title": "China growth hopes rest on troubled local government financing vehicles - Financial Times",
+            "description": "LGVFs forced to offer retail investors high yields to fund infrastructure development",
+            "url": "https://www.ft.com/content/046ee12c-d15e-4f75-b66a-bc3a70cd4fc8",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e4f0f0e-123a-4495-aaec-e926cb9d8c68.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-07-17T00:00:13Z",
+            "content": "If the Chinese government is able to reach its economic growth target of 5.5 per cent this year, it will be due in part to retail investors such as Jane Song.\r\nIn May, Song invested Rmb200,000 ($29,6… [+5351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Christopher Clarey",
+            "title": "Rory McIlroy Has a Big Day at the British Open. Viktor Hovland Follows. - The New York Times",
+            "description": "McIlroy leapfrogged to the top of the leaderboard with a stunning bunker shot on No. 10 for eagle. He and Hovland were tied heading into the final round on Sunday.",
+            "url": "https://www.nytimes.com/2022/07/16/sports/golf/mcilroy-hovland-british-open.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/16/multimedia/16roryviktor1/16roryviktor1-facebookJumbo.jpg",
+            "publishedAt": "2022-07-16T23:36:41Z",
+            "content": "Since then, he has experienced plenty of disappointing Sundays.\r\nNothings given to you, and I have to go out there and earn it, just like Ive earned everything else in my career, he said.\r\nOther majo… [+849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "David Meyer",
+            "title": "Rapper Kodak Black released on $75K bond after Florida oxycodone arrest - New York Post ",
+            "description": "Kodak Black’s lawyer told Rolling Stone the bond had been negotiated at a hearing Saturday morning for the rapper, whose legal name is Bill Kahan Kapri. Cops reportedly smelled marijuana and …",
+            "url": "https://nypost.com/2022/07/16/kodak-black-released-on-75k-bond-after-florida-oxycodone-arrest/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/kodak-black-out-on-bond.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-07-16T23:23:00Z",
+            "content": "Kodak Black was released from jail Saturday on $75,000 bond after being arrested near Fort Lauderdale for allegedly possessing dozens of oxycodone pills.\r\nThe 25-year-old rapper was seen leaving Brow… [+1256 chars]"
+        }
+    ]
+}
