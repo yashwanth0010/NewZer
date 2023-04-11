@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/NewZer/static/css/main.4ff83828.css",
-    "main.js": "/NewZer/static/js/main.c83fc79f.js",
+    "main.js": "/NewZer/static/js/main.4cdf2810.js",
     "static/js/787.4c026eef.chunk.js": "/NewZer/static/js/787.4c026eef.chunk.js",
     "static/media/logo.svg": "/NewZer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/NewZer/index.html",
     "main.4ff83828.css.map": "/NewZer/static/css/main.4ff83828.css.map",
-    "main.c83fc79f.js.map": "/NewZer/static/js/main.c83fc79f.js.map",
+    "main.4cdf2810.js.map": "/NewZer/static/js/main.4cdf2810.js.map",
     "787.4c026eef.chunk.js.map": "/NewZer/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ff83828.css",
-    "static/js/main.c83fc79f.js"
+    "static/js/main.4cdf2810.js"
   ]
 }
