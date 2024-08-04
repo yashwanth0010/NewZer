@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <>
         <NavBar/>
-        <h1 id='headline'>TOP HEADLINES </h1>
+        <h1 id='headline'>Top Headlines </h1>
         <hr></hr>
         {/*<Login/>*/}
         <NewsCOm/>

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import  {useState}  from 'react';
 import '../components/login.css'
 class Login extends Component {
-    const [Test,setTest] = useState("0");
+
     render() { 
         return (
             <>
